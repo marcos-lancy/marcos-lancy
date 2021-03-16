@@ -1,4 +1,7 @@
 ## Hi, I'm Marcos W. Nice to meet you 👋
+
+<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=marcos-lancy&hide=Batchfile" />
+
 ![GitHub Stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=marcos-lancy&show_icons=true&hide_border=true)
 
 - 🖥 Web Applications
