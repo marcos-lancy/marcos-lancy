@@ -1,5 +1,10 @@
-### Hi there 👋
+## Hi, I'm Marcos W. Nice to meet you.🏾 👋
 ![GitHub Stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=marcos-lancy&show_icons=true&hide_border=true)
+
+- 🖥 Web Applications
+- 🎨 Interfaces
+- 📱 Applications
+
 <!--
 **marcos-lancy/marcos-lancy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
