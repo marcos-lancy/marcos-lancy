@@ -2,9 +2,9 @@
 
 <!--
 **marcos-lancy/marcos-lancy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-![GitHub Stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=marcos-lancy&show_icons=true&hide_border=true)
-Here are some ideas to get you started:
 
+Here are some ideas to get you started:
+![GitHub Stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=marcos-lancy&show_icons=true&hide_border=true)
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
